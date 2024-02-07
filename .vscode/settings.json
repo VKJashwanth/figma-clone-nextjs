@@ -16,5 +16,7 @@
   },
   "typescript.tsdk": "node_modules/typescript/lib",
   "editor.rulers": [110],
-  "prettier.printWidth": 110
+  "prettier.printWidth": 110,
+  "editor.tabCompletion": "on",
+  "diffEditor.codeLens": true
 }
